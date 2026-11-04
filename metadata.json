@@ -1,0 +1,6 @@
+{
+  "name": "LuxeLiving",
+  "description": "Modern minimalist luxury furniture shopping app featuring curated collections, interactive AR room preview, seamless catalog filtering, wishlist, cart, and checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
